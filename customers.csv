@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Segment
+C0001,Customer_1,Consumer
+C0002,Customer_2,Corporate
+C0003,Customer_3,Consumer
+C0004,Customer_4,Consumer
+C0005,Customer_5,Corporate
+C0006,Customer_6,Corporate
+C0007,Customer_7,Consumer
+C0008,Customer_8,Small Business
+C0009,Customer_9,Consumer
+C0010,Customer_10,Consumer
+C0011,Customer_11,Consumer
+C0012,Customer_12,Consumer
+C0013,Customer_13,Corporate
+C0014,Customer_14,Consumer
+C0015,Customer_15,Small Business
+C0016,Customer_16,Corporate
+C0017,Customer_17,Small Business
+C0018,Customer_18,Small Business
+C0019,Customer_19,Small Business
+C0020,Customer_20,Small Business
+C0021,Customer_21,Corporate
+C0022,Customer_22,Corporate
+C0023,Customer_23,Small Business
+C0024,Customer_24,Small Business
+C0025,Customer_25,Corporate
+C0026,Customer_26,Corporate
+C0027,Customer_27,Corporate
+C0028,Customer_28,Consumer
+C0029,Customer_29,Consumer
+C0030,Customer_30,Consumer
+C0031,Customer_31,Small Business
+C0032,Customer_32,Consumer
+C0033,Customer_33,Small Business
+C0034,Customer_34,Small Business
+C0035,Customer_35,Consumer
+C0036,Customer_36,Small Business
+C0037,Customer_37,Consumer
+C0038,Customer_38,Consumer
+C0039,Customer_39,Corporate
+C0040,Customer_40,Consumer
+C0041,Customer_41,Corporate
+C0042,Customer_42,Consumer
+C0043,Customer_43,Consumer
+C0044,Customer_44,Corporate
+C0045,Customer_45,Corporate
+C0046,Customer_46,Consumer
+C0047,Customer_47,Small Business
+C0048,Customer_48,Corporate
+C0049,Customer_49,Small Business
+C0050,Customer_50,Small Business
+C0051,Customer_51,Small Business
+C0052,Customer_52,Corporate
+C0053,Customer_53,Small Business
+C0054,Customer_54,Corporate
+C0055,Customer_55,Small Business
+C0056,Customer_56,Consumer
+C0057,Customer_57,Consumer
+C0058,Customer_58,Corporate
+C0059,Customer_59,Consumer
+C0060,Customer_60,Consumer
+C0061,Customer_61,Small Business
+C0062,Customer_62,Corporate
+C0063,Customer_63,Small Business
+C0064,Customer_64,Small Business
+C0065,Customer_65,Small Business
+C0066,Customer_66,Small Business
+C0067,Customer_67,Small Business
+C0068,Customer_68,Small Business
+C0069,Customer_69,Small Business
+C0070,Customer_70,Corporate
+C0071,Customer_71,Consumer
+C0072,Customer_72,Small Business
+C0073,Customer_73,Small Business
+C0074,Customer_74,Small Business
+C0075,Customer_75,Small Business
+C0076,Customer_76,Small Business
+C0077,Customer_77,Small Business
+C0078,Customer_78,Consumer
+C0079,Customer_79,Consumer
+C0080,Customer_80,Small Business
+C0081,Customer_81,Consumer
+C0082,Customer_82,Corporate
+C0083,Customer_83,Small Business
+C0084,Customer_84,Corporate
+C0085,Customer_85,Corporate
+C0086,Customer_86,Small Business
+C0087,Customer_87,Consumer
+C0088,Customer_88,Corporate
+C0089,Customer_89,Small Business
+C0090,Customer_90,Corporate
+C0091,Customer_91,Corporate
+C0092,Customer_92,Corporate
+C0093,Customer_93,Corporate
+C0094,Customer_94,Consumer
+C0095,Customer_95,Corporate
+C0096,Customer_96,Corporate
+C0097,Customer_97,Corporate
+C0098,Customer_98,Consumer
+C0099,Customer_99,Corporate
+C0100,Customer_100,Corporate
+C0101,Customer_101,Consumer
+C0102,Customer_102,Consumer
+C0103,Customer_103,Consumer
+C0104,Customer_104,Corporate
+C0105,Customer_105,Consumer
+C0106,Customer_106,Consumer
+C0107,Customer_107,Corporate
+C0108,Customer_108,Consumer
+C0109,Customer_109,Corporate
+C0110,Customer_110,Small Business
+C0111,Customer_111,Consumer
+C0112,Customer_112,Small Business
+C0113,Customer_113,Corporate
+C0114,Customer_114,Consumer
+C0115,Customer_115,Corporate
+C0116,Customer_116,Small Business
+C0117,Customer_117,Corporate
+C0118,Customer_118,Consumer
+C0119,Customer_119,Consumer
+C0120,Customer_120,Small Business
+C0121,Customer_121,Corporate
+C0122,Customer_122,Consumer
+C0123,Customer_123,Small Business
+C0124,Customer_124,Consumer
+C0125,Customer_125,Consumer
+C0126,Customer_126,Corporate
+C0127,Customer_127,Consumer
+C0128,Customer_128,Corporate
+C0129,Customer_129,Consumer
+C0130,Customer_130,Small Business
+C0131,Customer_131,Consumer
+C0132,Customer_132,Corporate
+C0133,Customer_133,Corporate
+C0134,Customer_134,Small Business
+C0135,Customer_135,Consumer
+C0136,Customer_136,Consumer
+C0137,Customer_137,Small Business
+C0138,Customer_138,Consumer
+C0139,Customer_139,Consumer
+C0140,Customer_140,Corporate
+C0141,Customer_141,Consumer
+C0142,Customer_142,Consumer
+C0143,Customer_143,Small Business
+C0144,Customer_144,Small Business
+C0145,Customer_145,Corporate
+C0146,Customer_146,Consumer
+C0147,Customer_147,Consumer
+C0148,Customer_148,Consumer
+C0149,Customer_149,Corporate
+C0150,Customer_150,Corporate
+C0151,Customer_151,Small Business
+C0152,Customer_152,Corporate
+C0153,Customer_153,Consumer
+C0154,Customer_154,Consumer
+C0155,Customer_155,Corporate
+C0156,Customer_156,Consumer
+C0157,Customer_157,Consumer
+C0158,Customer_158,Corporate
+C0159,Customer_159,Corporate
+C0160,Customer_160,Consumer
+C0161,Customer_161,Consumer
+C0162,Customer_162,Consumer
+C0163,Customer_163,Small Business
+C0164,Customer_164,Small Business
+C0165,Customer_165,Small Business
+C0166,Customer_166,Corporate
+C0167,Customer_167,Small Business
+C0168,Customer_168,Corporate
+C0169,Customer_169,Corporate
+C0170,Customer_170,Small Business
+C0171,Customer_171,Small Business
+C0172,Customer_172,Small Business
+C0173,Customer_173,Consumer
+C0174,Customer_174,Small Business
+C0175,Customer_175,Consumer
+C0176,Customer_176,Corporate
+C0177,Customer_177,Consumer
+C0178,Customer_178,Small Business
+C0179,Customer_179,Corporate
+C0180,Customer_180,Corporate
+C0181,Customer_181,Corporate
+C0182,Customer_182,Consumer
+C0183,Customer_183,Small Business
+C0184,Customer_184,Corporate
+C0185,Customer_185,Corporate
+C0186,Customer_186,Corporate
+C0187,Customer_187,Consumer
+C0188,Customer_188,Consumer
+C0189,Customer_189,Small Business
+C0190,Customer_190,Consumer
+C0191,Customer_191,Corporate
+C0192,Customer_192,Small Business
+C0193,Customer_193,Corporate
+C0194,Customer_194,Corporate
+C0195,Customer_195,Consumer
+C0196,Customer_196,Small Business
+C0197,Customer_197,Consumer
+C0198,Customer_198,Consumer
+C0199,Customer_199,Small Business
+C0200,Customer_200,Corporate
+C0201,Customer_201,Corporate
+C0202,Customer_202,Small Business
+C0203,Customer_203,Corporate
+C0204,Customer_204,Small Business
+C0205,Customer_205,Small Business
+C0206,Customer_206,Consumer
+C0207,Customer_207,Small Business
+C0208,Customer_208,Consumer
+C0209,Customer_209,Corporate
+C0210,Customer_210,Corporate
+C0211,Customer_211,Corporate
+C0212,Customer_212,Corporate
+C0213,Customer_213,Consumer
+C0214,Customer_214,Corporate
+C0215,Customer_215,Small Business
+C0216,Customer_216,Small Business
+C0217,Customer_217,Small Business
+C0218,Customer_218,Consumer
+C0219,Customer_219,Corporate
+C0220,Customer_220,Corporate
+C0221,Customer_221,Corporate
+C0222,Customer_222,Consumer
+C0223,Customer_223,Small Business
+C0224,Customer_224,Small Business
+C0225,Customer_225,Corporate
+C0226,Customer_226,Small Business
+C0227,Customer_227,Small Business
+C0228,Customer_228,Consumer
+C0229,Customer_229,Consumer
+C0230,Customer_230,Consumer
+C0231,Customer_231,Consumer
+C0232,Customer_232,Corporate
+C0233,Customer_233,Consumer
+C0234,Customer_234,Small Business
+C0235,Customer_235,Corporate
+C0236,Customer_236,Small Business
+C0237,Customer_237,Small Business
+C0238,Customer_238,Small Business
+C0239,Customer_239,Consumer
+C0240,Customer_240,Consumer
+C0241,Customer_241,Corporate
+C0242,Customer_242,Corporate
+C0243,Customer_243,Consumer
+C0244,Customer_244,Small Business
+C0245,Customer_245,Corporate
+C0246,Customer_246,Consumer
+C0247,Customer_247,Consumer
+C0248,Customer_248,Consumer
+C0249,Customer_249,Small Business
+C0250,Customer_250,Consumer
+C0251,Customer_251,Consumer
+C0252,Customer_252,Consumer
+C0253,Customer_253,Consumer
+C0254,Customer_254,Corporate
+C0255,Customer_255,Corporate
+C0256,Customer_256,Consumer
+C0257,Customer_257,Small Business
+C0258,Customer_258,Corporate
+C0259,Customer_259,Consumer
+C0260,Customer_260,Corporate
+C0261,Customer_261,Corporate
+C0262,Customer_262,Small Business
+C0263,Customer_263,Consumer
+C0264,Customer_264,Consumer
+C0265,Customer_265,Small Business
+C0266,Customer_266,Small Business
+C0267,Customer_267,Consumer
+C0268,Customer_268,Consumer
+C0269,Customer_269,Small Business
+C0270,Customer_270,Corporate
+C0271,Customer_271,Corporate
+C0272,Customer_272,Small Business
+C0273,Customer_273,Corporate
+C0274,Customer_274,Small Business
+C0275,Customer_275,Corporate
+C0276,Customer_276,Corporate
+C0277,Customer_277,Consumer
+C0278,Customer_278,Consumer
+C0279,Customer_279,Corporate
+C0280,Customer_280,Corporate
+C0281,Customer_281,Consumer
+C0282,Customer_282,Consumer
+C0283,Customer_283,Consumer
+C0284,Customer_284,Small Business
+C0285,Customer_285,Corporate
+C0286,Customer_286,Consumer
+C0287,Customer_287,Corporate
+C0288,Customer_288,Small Business
+C0289,Customer_289,Small Business
+C0290,Customer_290,Consumer
+C0291,Customer_291,Small Business
+C0292,Customer_292,Corporate
+C0293,Customer_293,Consumer
+C0294,Customer_294,Corporate
+C0295,Customer_295,Corporate
+C0296,Customer_296,Small Business
+C0297,Customer_297,Small Business
+C0298,Customer_298,Small Business
+C0299,Customer_299,Small Business
+C0300,Customer_300,Small Business
+C0301,Customer_301,Consumer
+C0302,Customer_302,Corporate
+C0303,Customer_303,Corporate
+C0304,Customer_304,Corporate
+C0305,Customer_305,Corporate
+C0306,Customer_306,Small Business
+C0307,Customer_307,Corporate
+C0308,Customer_308,Consumer
+C0309,Customer_309,Consumer
+C0310,Customer_310,Corporate
+C0311,Customer_311,Corporate
+C0312,Customer_312,Consumer
+C0313,Customer_313,Consumer
+C0314,Customer_314,Small Business
+C0315,Customer_315,Consumer
+C0316,Customer_316,Small Business
+C0317,Customer_317,Small Business
+C0318,Customer_318,Small Business
+C0319,Customer_319,Small Business
+C0320,Customer_320,Small Business
+C0321,Customer_321,Corporate
+C0322,Customer_322,Consumer
+C0323,Customer_323,Small Business
+C0324,Customer_324,Consumer
+C0325,Customer_325,Consumer
+C0326,Customer_326,Small Business
+C0327,Customer_327,Corporate
+C0328,Customer_328,Small Business
+C0329,Customer_329,Corporate
+C0330,Customer_330,Consumer
+C0331,Customer_331,Corporate
+C0332,Customer_332,Corporate
+C0333,Customer_333,Corporate
+C0334,Customer_334,Consumer
+C0335,Customer_335,Consumer
+C0336,Customer_336,Corporate
+C0337,Customer_337,Corporate
+C0338,Customer_338,Small Business
+C0339,Customer_339,Corporate
+C0340,Customer_340,Small Business
+C0341,Customer_341,Corporate
+C0342,Customer_342,Small Business
+C0343,Customer_343,Consumer
+C0344,Customer_344,Corporate
+C0345,Customer_345,Corporate
+C0346,Customer_346,Corporate
+C0347,Customer_347,Corporate
+C0348,Customer_348,Small Business
+C0349,Customer_349,Corporate
+C0350,Customer_350,Consumer
+C0351,Customer_351,Consumer
+C0352,Customer_352,Corporate
+C0353,Customer_353,Consumer
+C0354,Customer_354,Corporate
+C0355,Customer_355,Corporate
+C0356,Customer_356,Consumer
+C0357,Customer_357,Corporate
+C0358,Customer_358,Consumer
+C0359,Customer_359,Small Business
+C0360,Customer_360,Corporate
+C0361,Customer_361,Small Business
+C0362,Customer_362,Consumer
+C0363,Customer_363,Small Business
+C0364,Customer_364,Small Business
+C0365,Customer_365,Consumer
+C0366,Customer_366,Small Business
+C0367,Customer_367,Small Business
+C0368,Customer_368,Consumer
+C0369,Customer_369,Small Business
+C0370,Customer_370,Consumer
+C0371,Customer_371,Small Business
+C0372,Customer_372,Consumer
+C0373,Customer_373,Consumer
+C0374,Customer_374,Small Business
+C0375,Customer_375,Small Business
+C0376,Customer_376,Small Business
+C0377,Customer_377,Corporate
+C0378,Customer_378,Corporate
+C0379,Customer_379,Corporate
+C0380,Customer_380,Consumer
+C0381,Customer_381,Small Business
+C0382,Customer_382,Consumer
+C0383,Customer_383,Corporate
+C0384,Customer_384,Small Business
+C0385,Customer_385,Consumer
+C0386,Customer_386,Small Business
+C0387,Customer_387,Consumer
+C0388,Customer_388,Small Business
+C0389,Customer_389,Corporate
+C0390,Customer_390,Corporate
+C0391,Customer_391,Small Business
+C0392,Customer_392,Consumer
+C0393,Customer_393,Corporate
+C0394,Customer_394,Corporate
+C0395,Customer_395,Corporate
+C0396,Customer_396,Small Business
+C0397,Customer_397,Small Business
+C0398,Customer_398,Consumer
+C0399,Customer_399,Consumer
+C0400,Customer_400,Consumer
+C0401,Customer_401,Small Business
+C0402,Customer_402,Small Business
+C0403,Customer_403,Consumer
+C0404,Customer_404,Consumer
+C0405,Customer_405,Small Business
+C0406,Customer_406,Consumer
+C0407,Customer_407,Corporate
+C0408,Customer_408,Small Business
+C0409,Customer_409,Consumer
+C0410,Customer_410,Small Business
+C0411,Customer_411,Corporate
+C0412,Customer_412,Small Business
+C0413,Customer_413,Small Business
+C0414,Customer_414,Small Business
+C0415,Customer_415,Small Business
+C0416,Customer_416,Corporate
+C0417,Customer_417,Small Business
+C0418,Customer_418,Small Business
+C0419,Customer_419,Consumer
+C0420,Customer_420,Small Business
+C0421,Customer_421,Consumer
+C0422,Customer_422,Corporate
+C0423,Customer_423,Corporate
+C0424,Customer_424,Corporate
+C0425,Customer_425,Corporate
+C0426,Customer_426,Consumer
+C0427,Customer_427,Small Business
+C0428,Customer_428,Corporate
+C0429,Customer_429,Small Business
+C0430,Customer_430,Consumer
+C0431,Customer_431,Consumer
+C0432,Customer_432,Consumer
+C0433,Customer_433,Corporate
+C0434,Customer_434,Small Business
+C0435,Customer_435,Small Business
+C0436,Customer_436,Small Business
+C0437,Customer_437,Consumer
+C0438,Customer_438,Corporate
+C0439,Customer_439,Consumer
+C0440,Customer_440,Consumer
+C0441,Customer_441,Small Business
+C0442,Customer_442,Consumer
+C0443,Customer_443,Small Business
+C0444,Customer_444,Corporate
+C0445,Customer_445,Small Business
+C0446,Customer_446,Corporate
+C0447,Customer_447,Small Business
+C0448,Customer_448,Consumer
+C0449,Customer_449,Consumer
+C0450,Customer_450,Corporate
+C0451,Customer_451,Corporate
+C0452,Customer_452,Corporate
+C0453,Customer_453,Small Business
+C0454,Customer_454,Small Business
+C0455,Customer_455,Corporate
+C0456,Customer_456,Consumer
+C0457,Customer_457,Small Business
+C0458,Customer_458,Small Business
+C0459,Customer_459,Small Business
+C0460,Customer_460,Corporate
+C0461,Customer_461,Corporate
+C0462,Customer_462,Corporate
+C0463,Customer_463,Corporate
+C0464,Customer_464,Corporate
+C0465,Customer_465,Consumer
+C0466,Customer_466,Consumer
+C0467,Customer_467,Corporate
+C0468,Customer_468,Small Business
+C0469,Customer_469,Corporate
+C0470,Customer_470,Consumer
+C0471,Customer_471,Consumer
+C0472,Customer_472,Small Business
+C0473,Customer_473,Consumer
+C0474,Customer_474,Corporate
+C0475,Customer_475,Small Business
+C0476,Customer_476,Corporate
+C0477,Customer_477,Corporate
+C0478,Customer_478,Small Business
+C0479,Customer_479,Corporate
+C0480,Customer_480,Consumer
+C0481,Customer_481,Corporate
+C0482,Customer_482,Small Business
+C0483,Customer_483,Small Business
+C0484,Customer_484,Small Business
+C0485,Customer_485,Corporate
+C0486,Customer_486,Small Business
+C0487,Customer_487,Small Business
+C0488,Customer_488,Corporate
+C0489,Customer_489,Consumer
+C0490,Customer_490,Corporate
+C0491,Customer_491,Small Business
+C0492,Customer_492,Small Business
+C0493,Customer_493,Corporate
+C0494,Customer_494,Consumer
+C0495,Customer_495,Small Business
+C0496,Customer_496,Small Business
+C0497,Customer_497,Small Business
+C0498,Customer_498,Corporate
+C0499,Customer_499,Small Business
+C0500,Customer_500,Consumer
